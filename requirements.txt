@@ -1,3 +1,4 @@
-pyspark==3.5.0
-pytest
-pylint
+- Python 3.10
+- PySpark 4.1.1
+- Java 17
+- Pytest
